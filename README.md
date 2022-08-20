@@ -2,10 +2,8 @@
 Hi 👋 My name is Şahin Karadeniz
 ============================
 
-Marmara University Computer Engineering Student
------------------------------------------------
-
 I am a 3nd year student in Marmara University Computer Engineering program.
+-----------------------------------------------
 
 - 🌍  I'm based in Istanbul/Turkey.
 - 🔭  I’m currently working on Android project.
@@ -40,5 +38,6 @@ I am a 3nd year student in Marmara University Computer Engineering program.
 
 <div width="100%" align="center">
 <a href="https://github.com/sahinkaradeniz/LocationList" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkaradeniz&repo=LocationList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/sahinkaradeniz/ChatApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkaradeniz&repo=ChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sahinkaradeniz/SmartagSyntaxScore" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkaradeniz&repo=SmartagSyntaxScore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/sahinkaradeniz/ChatApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahinkaradeniz&repo=ChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</a></div><br /><br /><br /><br /><br /><br /><br />
 
