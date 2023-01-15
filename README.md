@@ -2,7 +2,7 @@
 Hi 👋 My name is Şahin Karadeniz
 ============================
 
-I am a 3nd year student in Marmara University Computer Engineering program.
+I am a 3rd year student in Marmara University Computer Engineering program.
 -----------------------------------------------
 
 - 🌍  I'm based in Istanbul/Turkey.
